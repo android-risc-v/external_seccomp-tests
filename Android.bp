@@ -23,6 +23,9 @@ cc_library_static {
         mips64: {
             enabled: false,
         },
+        riscv64: {
+            enabled: false,
+        },
     },
 
     srcs: [
